@@ -17,7 +17,7 @@ This is the driver that connects the server to steamVR.
 It should look something like this: 
 
 ## Example:
-`
+```
 "steamvr" : {
       "activateMultipleDrivers" : true,      
       "installID" : "6929191912233415209",      
@@ -26,4 +26,4 @@ It should look something like this:
       "showAdvancedSettings" : true,      
       "showMirrorView" : true      
 },
-`
+```
